@@ -1,5 +1,5 @@
 # link-miner
-This is a fun project by using basic of python
+This is a fun project by using basic of python but It can be helpful for scrapping all links of a webpage
 
 #How to run it?
 
